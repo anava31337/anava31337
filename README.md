@@ -2,13 +2,13 @@
   <img src="./TechGitHeader-v1.2.png"/>
   <br/>  
   <div id="badges">
-    <a href="https://www.linkedin.com/in/alexnava86">
+    <a href="https://www.linkedin.com/in/anava31337">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://alexnava86.itch.io/">
+    <a href="https://anava31337.itch.io/">
       <img src="https://img.shields.io/badge/itch--io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Itch.io Badge"/>
     </a>
-    <a href="https://alexnava86.com/">
+    <a href="https://anava31337.com/">
       <img src="https://img.shields.io/badge/website-BE94f0?style=for-the-badge&logo=googlehome&logoColor=white" alt="Website Badge"/>
     </a>
   </div>
@@ -18,8 +18,8 @@
 
 ### :chart_with_upwards_trend: Stats
 <div style="display: flex;">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=alexnava86&show_icons=true&theme=tokyonight&count_private=true" alt="Github Stats">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alexnava86&theme=tokyonight&count_private=true&langs_count=4&hide=tex" alt="Top Languages" height="195">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=anava31337&show_icons=true&theme=tokyonight&count_private=true" alt="Github Stats">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anava31337&theme=tokyonight&count_private=true&langs_count=4&hide=tex" alt="Top Languages" height="195">
 </div>
 
 ---
@@ -27,9 +27,9 @@
 ### :pencil: Bio
 Hello world! I'm a :computer:Software Engineer/Web Developer:globe_with_meridians: from Texas:cowboy_hat_face:. I'm proficient in a wide array of technologies and tools, including Azure, .NET (dotNet) Core, C#, C, Java, JavaScript, Python, Unity3D, SQL, Git, Bash/Shell Scripting, HTML/CSS, as well as 3D modeling and graphic design tools. I have a strong foundation in computer science, I'm committed to developing robust software and web applications and I'm relentless in my approach to problem solving. 
 
-I'm also developing a video game with a friend titled "Adventure Game" which you can learn more about on the <a href="https://github.com/alexnava86/AdventureGame">GitHub Repo</a>, by <a href="https://alexnava86.com/">visiting my page</a> or just by <a href="https://alexnava86.itch.io/adventuregame-v0-0-0325">playing it in your browser</a> in its current state. I'm currently seeking new opportunities to utilize my knowledge and skill set. I'm optimistic about the future and I'm excited to see what it will bring, let's build something great together.
+I'm also developing a video game with a friend titled "Adventure Game" which you can learn more about on the <a href="https://github.com/anava31337/adventure-game">GitHub Repo</a>, by <a href="https://anava31337.com/">visiting my page</a> or just by <a href="https://anava31337.itch.io/adventure-game">playing it in your browser</a> in its current state. I'm currently seeking new opportunities to utilize my knowledge and skill set. I'm optimistic about the future and I'm excited to see what it will bring, let's build something great together.
 
-- :art::paintbrush: I'm also an artist. You can check out some of my work <a href="https://alexnava86.com/Art/">on my site</a>.
+- :art::paintbrush: I'm also an artist. You can check out some of my work <a href="https://anava31337.com/Art/">on my site</a>.
 - :guitar::musical_keyboard: I enjoy playing music. Mostly covers, indie, folk, jazz, world, classic rock, country, bluegrass, etc.,
 - :earth_americas::books: I also love listening to podcasts and learning about world history and different cultures.
 - :jp::japanese_castle: 私も暇なときに日本語を勉強しま、でもまだあまり上手じゃありません。
