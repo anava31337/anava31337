@@ -18,8 +18,8 @@
 
 ### :chart_with_upwards_trend: Stats
 <div style="display: flex;">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=anava31337&show_icons=true&theme=tokyonight&count_private=true" alt="Github Stats">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anava31337&theme=tokyonight&count_private=true&langs_count=4&hide=tex" alt="Top Languages" height="195">
+  <img src="https://github-stats-extended.vercel.app/api?username=anava31337&show_icons=true&theme=tokyonight&count_private=true" alt="Github Stats">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=anava31337&theme=tokyonight&count_private=true&langs_count=4&hide=tex" alt="Top Languages" height="195">
 </div>
 
 ---
@@ -85,5 +85,5 @@ I'm also developing a video game with a friend titled "Adventure Game" which you
 ---
 
 ### :mailbox: Contact
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexnava86) 
-[![Email Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:alex.nava.developer@outlook.com)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anava31337) 
+[![Email Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:anava31337@gmail.com)
